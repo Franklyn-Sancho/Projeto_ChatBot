@@ -1,9 +1,11 @@
+# Importe as bibliotecas 
 from chatterbot import ChatBot
 from chatterbot.trainers import ListTrainer
 
 
 bot = ChatBot('Belzer')
 
+# Crie um objeto chamado Treino (ou o nome que quiser)
 Treino = ListTrainer(bot)
 Treino.train([
 'Oi',
@@ -18,6 +20,8 @@ Treino.train([
 'Sem problema! tenha um excelente dia'
 ])
 
+# Parte da lógica do código
+# Se escrever Adeus ou adeus, o aplicativo será encerrado, caso contrário, ele responderá
 nome=input("Por favor, entre com seu nome: ")
 print("Seja gentil com o Belzer")
 while True:
