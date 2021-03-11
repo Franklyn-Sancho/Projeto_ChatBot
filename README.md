@@ -1,5 +1,7 @@
 <h1 align="center"> Clássico ChatBot em python (2 em 1) </h1>
 
+![Badge](https://img.shields.io/static/v1?label=python&message=Language&color=Blue&style=for-the-badge&logo=Python)
+
 ### 1. O primeiro por texto
 
 **Construído com a Bibioteca Chatterbot do Python.**<br>
@@ -18,4 +20,7 @@ https://pypi.org/project/PyAudio/ - Verifique o pacote pip<br>
 https://pypi.org/project/SpeechRecognition/ - pacote pip <br>
 https://pypi.org/project/gTTS/ - pip<br>
 **ufa**
+
+
+
 
